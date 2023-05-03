@@ -19,7 +19,7 @@
 <a href="https://www.hackerearth.com/@aditya.choudhari19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aditya.choudhari19" height="30" width="40" /></a>
 <a href="https://discord.gg/ᶜᴼᴺˢᶜᴵᴱᴺᶜᴵᴬ#7800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ᶜᴼᴺˢᶜᴵᴱᴺᶜᴵᴬ#7800" height="30" width="40" /></a>
 </p> -->
-
+<h3 align="left">Connect with Me:</h3>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
