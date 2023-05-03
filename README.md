@@ -22,9 +22,9 @@
 <h3 align="left">Connect with Me:</h3>
 <div align="justify">
 
-<a href="https://www.twitter.com/rzashakeri/">
+<!-- <a href="https://www.twitter.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
+</a> -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/harsh-tripathi-378a97195/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
